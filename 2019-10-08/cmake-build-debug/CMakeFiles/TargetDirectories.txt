@@ -1,0 +1,3 @@
+/home/miao/miao/CLionProjects/2019-10-08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/miao/miao/CLionProjects/2019-10-08/cmake-build-debug/CMakeFiles/quick_advance.dir
+/home/miao/miao/CLionProjects/2019-10-08/cmake-build-debug/CMakeFiles/edit_cache.dir

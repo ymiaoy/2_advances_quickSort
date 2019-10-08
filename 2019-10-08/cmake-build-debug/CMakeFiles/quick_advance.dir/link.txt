@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/quick_advance.dir/main.cpp.o  -o quick_advance 
